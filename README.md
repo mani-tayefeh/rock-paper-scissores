@@ -27,6 +27,4 @@ This project is a simple version of the popular game "Rock, Paper, Scissors" imp
 
 ## Credits
 
----
-
 Created by Mani Tayefe.
